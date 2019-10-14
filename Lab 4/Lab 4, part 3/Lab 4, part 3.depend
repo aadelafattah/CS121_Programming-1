@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540293260 source:d:\college\csed22\lab 4, part 3\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
