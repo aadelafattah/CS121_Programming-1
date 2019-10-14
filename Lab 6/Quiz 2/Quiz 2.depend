@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541514106 source:d:\college\csed22\quiz 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
